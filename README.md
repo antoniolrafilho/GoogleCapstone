@@ -1,7 +1,7 @@
-# GoogleCapstone
+# Google Capstone
 Google Data Analyst Certificate Project
 
-# Cyclistic Bike-Share Analysis Case Study
+# Case study: How does a bike-share navigate speedy success?
 
 ## Introduction
 
